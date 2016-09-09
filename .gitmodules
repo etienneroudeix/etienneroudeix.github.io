@@ -1,3 +1,6 @@
 [submodule "talks-eventProgramming"]
 	path = talks-eventProgramming
 	url = https://github.com/etienneroudeix/talks-eventProgramming.git
+[submodule "talks-rethinkDB"]
+        path = talks-rethinkDB
+        url = https://github.com/etienneroudeix/talk-rethinkdb.git
